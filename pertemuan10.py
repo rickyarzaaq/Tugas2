@@ -5,7 +5,6 @@ import yfinance as yf
 from datetime import date
 
 st.title("Pertemuan 10: Interaksi Streamlit dan Yahoo Finance")
-#tes
 
 kamus_ticker = {
     'GOOGL' : 'Google',
